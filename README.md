@@ -9,4 +9,4 @@
 * Configuré webhooks e integraciones API para automatizar la recepción de consultas y el envío de respuestas comerciales.
 * Desarrollé scripts para comprobar funcionalidades relacionadas con búsquedas, reservas y prevención de mensajes duplicados.
 
-**Repositorio:** github.com/enrique-crispin26/shop-n8n-
+**Repositorio:** github.com/enrique-crispin26/sli-shop
